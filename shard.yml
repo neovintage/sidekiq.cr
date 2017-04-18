@@ -15,7 +15,7 @@ dependencies:
     version: ~> 0.2.3
   kemal:
     github: kemalcr/kemal
-    version: ~> 0.18.3
+    commit: 0b4856b7417592743a27fc3e30867fd141395bf6
   kemal-csrf:
     github: kemalcr/kemal-csrf
     branch: master
